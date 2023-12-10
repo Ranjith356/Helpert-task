@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Helpert-task/static/css/main.37a7239f.css",
+    "main.js": "/Helpert-task/static/js/main.58674a03.js",
+    "index.html": "/Helpert-task/index.html",
+    "main.37a7239f.css.map": "/Helpert-task/static/css/main.37a7239f.css.map",
+    "main.58674a03.js.map": "/Helpert-task/static/js/main.58674a03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a7239f.css",
+    "static/js/main.58674a03.js"
+  ]
+}
